@@ -1,0 +1,120 @@
+[
+  {
+    "id": "amazon-B0DQXNB6S4",
+    "name": "Veirdo Men Brown Shacket Style Winter Jacket with Full Sleeve Point Collar and Button Front Warm Cotton Blend Casual Overshirt for Everyday Winter Wear and Layering",
+    "issues": [
+      "Product title says Brown, but selected variant color says Olive"
+    ],
+    "source_color": "Olive",
+    "assigned_category": "layer",
+    "assigned_color": "Olive",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0HS2HVW1W",
+    "name": "Men's olive green Overshirt Jacket with Dual Chest Pockets",
+    "issues": [
+      "Description mentions black while title/variant says olive"
+    ],
+    "source_color": "olive",
+    "assigned_category": "layer",
+    "assigned_color": "Olive",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0GRH4N6L1",
+    "name": "INKD Men's Shacket Shirt - 100% Cotton | Relaxed Fit | Colored Denim Shirt for Men | Full Sleeve | Soft & Comfortable | Overshirt | Premium Buttons",
+    "issues": [
+      "Desert Drift mapped provisionally to Beige",
+      "Layer classification inferred from title despite source Shirts subcategory"
+    ],
+    "source_color": "Desert Drift",
+    "assigned_category": "layer",
+    "assigned_color": "Beige",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0DFWY6KWC",
+    "name": "FINIVO FASHION Men's Casual Button Down Shirts Long Sleeve Cotton Linen Shirt Fashion Textured Beach Summer Shirts|Regular Collar | Everyday Wear Casual Shirt for Men",
+    "issues": [
+      "Source color 'Green' does not map unambiguously to approved palette",
+      "Generic green cannot be reliably classified as Olive"
+    ],
+    "source_color": "Green",
+    "assigned_category": "top",
+    "assigned_color": "Other",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0GM17WJVB",
+    "name": "Men’s Casual Button Down Overshirt for Men | Regular Fit Long Sleeve Solid Shirt Jacket | Front Pocket Smart Casual Wear | Everyday Office Travel Layering Shirt for Men",
+    "issues": [
+      "Source color 'GREEN' does not map unambiguously to approved palette",
+      "Generic green cannot be reliably classified as Olive",
+      "Layer classification inferred from title despite source Shirts subcategory"
+    ],
+    "source_color": "GREEN",
+    "assigned_category": "layer",
+    "assigned_color": "Other",
+    "assigned_style": "Smart casual"
+  },
+  {
+    "id": "amazon-B0HCPWS798",
+    "name": "Leriya Fashion Shirt for Man | Men Casual Pleated Long Sleeve Shirt | Cotton Vertical Striped Textured Button Closure Shirts | Lightweight Relaxed Fit Shirts for Office,Travel,Everyday Use",
+    "issues": [
+      "Style attribute suggests Formal while title says Casual; classified Casual"
+    ],
+    "source_color": "Olive",
+    "assigned_category": "top",
+    "assigned_color": "Olive",
+    "assigned_style": "Smart casual"
+  },
+  {
+    "id": "amazon-B0G2HFQD4X",
+    "name": "SMOWKLY Men’s Casual Shirt Jacket for Men | Lightweight 100% Cotton Overshirt | Full Sleeve Utility Shacket with Pockets | Stylish for Everyday Wear | Full Sleeve Button Down Shirt",
+    "issues": [
+      "Layer classification inferred from title despite source Shirts subcategory"
+    ],
+    "source_color": "Black",
+    "assigned_category": "layer",
+    "assigned_color": "Black",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0GZ4BQSF4",
+    "name": "VASTRADO Regal Olive Double Pocket Corduroy Overshirt",
+    "issues": [
+      "Color inferred from title; no explicit variant color",
+      "Layer classification inferred from title despite source Shirts subcategory"
+    ],
+    "source_color": "Olive",
+    "assigned_category": "layer",
+    "assigned_color": "Olive",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0G2HB8BJR",
+    "name": "SMOWKLY Men’s Casual Shirt Jacket for Men | Lightweight 100% Cotton Overshirt | Full Sleeve Utility Shacket with Pockets | Stylish for Everyday Wear | Full Sleeve Button Down Shirt",
+    "issues": [
+      "Cream mapped to Beige",
+      "Layer classification inferred from title despite source Shirts subcategory"
+    ],
+    "source_color": "Cream",
+    "assigned_category": "layer",
+    "assigned_color": "Beige",
+    "assigned_style": "Casual"
+  },
+  {
+    "id": "amazon-B0H4QT9985",
+    "name": "Men's Cotton Overshirt Shacket | Full Sleeve | Single Pocket | Oversized Shirt",
+    "issues": [
+      "Source color 'Green' does not map unambiguously to approved palette",
+      "Generic green cannot be reliably classified as Olive",
+      "Layer classification inferred from title despite source Shirts subcategory"
+    ],
+    "source_color": "Green",
+    "assigned_category": "layer",
+    "assigned_color": "Other",
+    "assigned_style": "Casual"
+  }
+]
